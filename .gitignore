@@ -1,0 +1,20 @@
+# Ignorar el entorno virtual
+ven/
+venv/
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignorar archivos de configuración de entorno
+.env
+# Ignorar archivos de paquetes instalados
+*.egg-info/
+.eggs/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar otros archivos innecesarios
+.DS_Store
+Thumbs.db
